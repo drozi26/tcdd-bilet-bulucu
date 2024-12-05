@@ -1,6 +1,7 @@
 # Journey details (check stations.json for valid station names)
 binis_istasyon_adi = "Eskişehir"
 inis_istasyon_adi = "İzmit YHT"
+date = "2024-06-23"
 
 # If you want to check all journeys in a given date/day, set to False. 
 # Else set to True and give a specific valid journey hour.
